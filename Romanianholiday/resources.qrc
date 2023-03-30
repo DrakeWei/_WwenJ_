@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>罗马尼亚度假问题地图.csv</file>
+        <file>罗马尼亚度假问题启发函数值.csv</file>
+    </qresource>
+</RCC>
